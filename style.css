@@ -104,6 +104,9 @@ nav a:hover {
 }
 
 /*  template */
+#img {
+    margin-left: 1%;
+}
 
 #imgsat {
     float: right;
